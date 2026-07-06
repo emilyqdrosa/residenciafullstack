@@ -1,3 +1,4 @@
 -----------------------------------------------
-Nome | Categoria | Valor | Essencial | Variavel
+Nome | Categoria   | Valor | Essencial | Variavel
 -----------------------------------------------
+Emily| Alimentação | 19.00 | Sim       | Sim
