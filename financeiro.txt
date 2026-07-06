@@ -1,4 +1,5 @@
 -----------------------------------------------
 Nome | Categoria   | Valor | Essencial | Variavel
 -----------------------------------------------
-Emily| Alimentação | 19.00 | Sim       | Sim
+Emily| Alimentação | 19.00 | Sim       | Sim    
+Luana|   Lazer     | 16.90 | Sim       | Não
