@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 -----------------------------------------------
 Nome | Categoria   | Valor | Essencial | Variavel
 -----------------------------------------------
 Emily| Alimentação | 19.00 | Sim       | Sim    
 Luana|   Lazer     | 16.90 | Sim       | Não
+=======
+----------------------------------------------------
+Nome    | Categoria   | Valor | Essencial | Variavel
+----------------------------------------------------
+Emily   | Alimentação | 19.00 | Sim       | Sim
+----------------------------------------------------
+Nícolas | Internet | 30.00 | Sim          | Não
+>>>>>>> 42cf4fc1b83ce80ab131df0163dac6747f76847f
